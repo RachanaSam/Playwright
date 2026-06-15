@@ -1,0 +1,16 @@
+"use strict";
+console.log("hello");
+let message = "hello world";
+console.log(message);
+let mobile = 456;
+console.log(mobile);
+let issta = true;
+console.log(issta);
+let data = "phone number";
+console.log(data);
+let name1 = "adress";
+console.log(name1);
+let studentName = "Rachana Sam";
+let employeeId = 4563;
+let isLoggedIn = false;
+console.log(studentName + employeeId + isLoggedIn);
